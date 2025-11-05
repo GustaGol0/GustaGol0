@@ -1,7 +1,7 @@
 ### E aí, pessoal! Eu sou o Gustavo! 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNxcjR0dGRqaTF2ZzN3b2d1cDZqYmhpZjBqMm4yMTA2cTV2dXA0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rb0O5hYCSqP5K/giphy.gif" width="200" alt="Café programando">
+  <img src="https://media.giphy.com/media/QvBoMEgFJ0lS4/giphy.gif" width="200" alt="Gato digitando no computador">
 </div>
 <br>
 
