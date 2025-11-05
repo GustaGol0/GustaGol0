@@ -28,5 +28,5 @@ Aqui estão algumas coisas que estou aprendendo e usando:
 
 ### 📫 Como me encontrar
 
-* **LinkedIn:** `[Me adicione no LinkedIn!](https://www.linkedin.com/in/gustavo-almeida-abb793299/?trk=opento_sprofile_details)`
+* **LinkedIn:** `(https://www.linkedin.com/in/gustavo-almeida-abb793299/?trk=opento_sprofile_details)`
 * **Email:** `gu.soares.almeida@gmail.com`
