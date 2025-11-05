@@ -1,10 +1,4 @@
 ### E aí, pessoal! Eu sou o Gustavo! 👋
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJ3dGpjcW92ODFxZDNybzdwbmYzOG54cjJpZHE0cms3N2V5aHU2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="300" alt="gato programando">
-</div>
-<br>
-
 Eu sou um estudante de Análise e Desenvolvimento de Sistemas totalmente apaixonado por tecnologia e por transformar ideias em código! 💻
 
 ---
